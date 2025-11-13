@@ -64,6 +64,10 @@ Y= A⊕B
 
 **PROGRAM**
 
+Program for logic gates and verify its truth table in quartus using Verilog programming
+
+ Developed by: R NARESH KUMAR
+ RegisterNumber: 212224040213
 ```
 module Exp2(A,B,x1,x2,x3,x4,x5,x6,x7);
 input A,B;
@@ -77,24 +81,26 @@ assign x6=(A^B);
 assign x7=~(A^B);
 endmodule
 ```
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
-<img width="883" height="780" alt="image" src="https://github.com/user-attachments/assets/07b0ef9a-e75d-4092-871a-798cbad26e68" />
+<img width="1021" height="840" alt="image" src="https://github.com/user-attachments/assets/00cfcc2c-4b8d-4ece-a452-c0de6f7e05e6" />
 
 
 **RTL realization Output:** 
-<img width="1567" height="580" alt="image" src="https://github.com/user-attachments/assets/6e4e391c-0ba4-40fd-a2cf-02c093f9d5ae" />
+<img width="1033" height="512" alt="image" src="https://github.com/user-attachments/assets/e0d734c1-bbc8-4130-bb62-fa8882a9a271" />
+
+
+**RTL**                                                           
 
 
 
-**RTL**
-<img width="1452" height="747" alt="image" src="https://github.com/user-attachments/assets/72dc8b93-a5a3-4b73-a603-5cb4e147bb26" />
 
 
 
-**Result:**Thus the truth table of logic gate are verified using Quartus II using Verilog programming.
+<img width="788" height="612" alt="Screenshot 2025-10-16 140139" src="https://github.com/user-attachments/assets/8c412d95-52d2-4d3d-8b60-c5718decf2c8" />
+
+
+**Result:**
+Thus the truth table of logic gate are verified using Quartus II using Verilog programming.
 
 
